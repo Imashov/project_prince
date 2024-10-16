@@ -1,0 +1,29 @@
+
+
+h1 {
+   color: red; 
+   font-size: xx-large;
+   font-style: normal;
+   text-align: center;
+}
+
+.marked {
+    color: crimson;
+    font-size: larger;
+    font-style: inherit;
+    text-decoration: line-through;
+}
+   
+.first {
+    color: darkgreen;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.second {
+    color: darkmagenta;
+    font-weight: bold;
+    font-style: unset;
+    text-decoration: overline;
+}
